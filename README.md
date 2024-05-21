@@ -3,5 +3,5 @@
 
 <br>
 
-> Para verificar o selo de conclusão, acesse:
+> Para verificar o selo de conclusão, acesse: https://g.dev/kaangelo
 
