@@ -1,2 +1,7 @@
-# MoreFundamentalls_Kotlin
-Repositório com o objetivo de demonstrar os conteúdos desenvolvidos no curso de Programação em Kotlin no modulo "Mais Fundamentos de Kotlin".
+# Mais Fundamentos de Kotlin
+> Os seguintes arquivos são demonstrações de conteúdos e desenvolvimento dentro do módulo do curso de Introdução a Programação Kotlin.
+
+<br>
+
+> Para verificar o selo de conclusão, acesse:
+
